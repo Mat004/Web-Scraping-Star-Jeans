@@ -1,2 +1,3 @@
-# Web-Scraping-Star-Jeans
-Nesse projeto de Web Scraping foi utilizado Selenium e Beautiful Soup para extração dos dados e gerar informações para a empresa fictícia "Star Jeans".
+# STAR JEANS - WEB SCRAPING
+
+**Observação**: Os dados foram extraídos dos sites de duas lojas reais, utilizando ferramentas de web scraping. O intuito desse projeto é inteiramente de aprendizado e toda situação que será discutida aqui é para esse fim.
