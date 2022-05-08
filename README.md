@@ -85,3 +85,19 @@
 </br>
 
 <h3> 1.2 - Macy's </h3
+<p align='justify'> Seguindo a mesma linha de raciocínio, após a extração e limpeza dos dados do site, foi realizado a descrição geral dos dados, sendo possível observar na imagem abaixo:
+</p>
+</p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/76838937/167299480-423ca29a-02b4-46d6-9559-375bf433007c.png">
+</p>
+<ul>
+  <li> product_price: Preço do produto </li>
+  <li> product_sale: Preço de promoção do produto </li>
+</ul>
+<p align='justify'> Na Macy's temos o <i>product_price</i> tendo o máximo em US$ 348,00 e o preço mínimo US$ 29,50, a mediana dos preços ficou em torno de US$ 89,00. Nos preços das calças em promoção, encontramos preços de no máximo US$ 167,30. </p>
+</br>
+
+<h3> 1.3 - Comparação </h3>
+<p align='justify'> A principal diferença entre os dados das duas concorrentes é na informação de composição do que compõe as calças. Na H&M há os valores das porcentagens de cada componente, enquanto na Macy's as informações que são fornecidas sobre composição são somente quais componentes estão presentes. Porém, a informação mais crucial está nos preços de vendas. É notório a grande diferença entre os valores dos produtos vendidos entre as duas empresas, na H&M temos produtos mais baratos enquanto na Macy's mais caros, o que nos leva a inferir que a segunda fornece produtos de <i>grife</i> e consequentemente a primeira com produtos mais acessíveis.</p>
+<p align='justify'> Esse fator não descredibiliza e descarta o que foi extraído da Macy's. Podendo ser usado para melhor compreensão do comportamento dos preços e dessa forma analisar, de forma adequada, o mercado de calças e seus fenômenos. </p>
