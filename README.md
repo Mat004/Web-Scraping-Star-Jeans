@@ -75,6 +75,9 @@
 <h3> 1.1 - H&M </h3>
 <p align='justify'> Após as etapas de coleta e limpeza de dados, foi realizado uma descrição geral dos resultados com o intuito de inferir alguns fenômenos. Abaixo está a descrição dos dados para a coleta da H&M:
 </p>
+
+</br>
+<p>Imagem 1: Dados H&M</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76838937/167298729-140ed370-514a-4f0e-a54a-6631d7083ddd.png">
 </p>
@@ -92,7 +95,9 @@
 <h3> 1.2 - Macy's </h3>
 <p align='justify'> Seguindo a mesma linha de raciocínio, após a extração e limpeza dos dados do site, foi realizado a descrição geral dos dados, sendo possível observar na imagem abaixo:
 </p>
-</p>
+
+</br>
+<p>Imagem 2: Dados Macy's</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76838937/167299480-423ca29a-02b4-46d6-9559-375bf433007c.png">
 </p>
@@ -117,13 +122,13 @@
     promoções durante a semana. Abaixo temos as imagens do perfil de promoções para cada empresa:
   </p>
   </br>
-  <p>Imagem 1: Quantidade de descontos H&M </p>
+  <p>Imagem 3: Quantidade de descontos H&M </p>
   <p align="center">
   <img src="https://user-images.githubusercontent.com/76838937/189499770-c8cb0d53-bb19-4b86-845f-6ba9e003ca28.png">
   </p>
 
 </br>
-<p>Imagem 2: Quantidade de descontos Macy's </p>
+<p>Imagem 4: Quantidade de descontos Macy's </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76838937/189499819-c2f8367e-116f-4f7b-9e15-cecf1115460d.png">
 </p>
@@ -160,3 +165,102 @@
 </br>
 
 <h3>2.3 - Os 5 modelos com maiores quantidades de calças, são as que possuem o valor em torno da mediana total</h3>
+<p align='justify'> Com os dados da H&M e da Macy's, foi possível realizar o top 5 das calças com maior quantidade e seus
+  respectivos valores medianos.
+</p>
+
+</br>
+<p>Imagem 5: Tabela H&M </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76838937/189504264-77170f68-124f-4aa0-9d1a-850d016234b6.jpeg">
+</p>
+
+</br>
+<p>Imagem 6: Tabela Macy's </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76838937/189504270-d9046d9b-2e7f-4a3d-bd13-96767f43596e.jpeg">
+</p>
+
+</br>
+
+<p><b>A hipóteses é FALSA, pois os valores diferem em um grau alto da mediana geral do preços das calças.</b></p>
+</br>
+
+
+<h3>2.4 - Calças com composição de algodão acima de 90%, custam acima do preço mediano</h3>
+<p align='justify'> As informações para essa hipótese foram bem equilibradas, tendo 9 estilos de calças com preço acima ou igual a mediana
+  geral e 9 estilgos de calças com preço menor que a mediana. No entanto, a quantidade de calças é maior no segundo caso.
+</p>
+
+</br>
+<p>Imagem 7: Calças com preço acima da mediana </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76838937/189504557-2fc9bcf6-3ba2-4c94-befe-3f5fc1fc47d7.png">
+</p>
+
+</br>
+<p>Imagem 8: Calças com preço abaixo da mediana</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76838937/189504567-ab0244eb-cfa2-4611-8426-c059c3d30a74.png">
+</p>
+
+</br>
+
+<p><b>A hipóteses é FALSA, pois a maior quantidade de calças está com preços abaixo da mediana geral.</b></p>
+</br>
+
+
+<h3>2.5 - Items em promoção possuem cor clara</h3>
+<p align='justify'> As cores das calças são parâmetros utilizados na hora da compra, algumas pessoas preferem cores mais escuras
+  outras mais claras. Nesse caso, os dados estão de certo modo equilibrados, há tanto cores claras quanto escuras na lista abaixo:
+</p>
+
+</br>
+<p>Imagem 9: Calças e suas cores</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76838937/189504744-c97f41bc-3476-40a1-bc0e-53e450871ad7.png">
+</p>
+
+</br>
+
+<p><b>A hipóteses é FALSA, a quantidade de calças de cor clara em promoção, não superou as de cores escuras. Pelo contrário,
+ficaram com valores próximos.</b></p>
+</br>
+
+
+<h1> Problema de negócio </h1>
+<p align='justify'>O grande objetivo do projeto é responder as perguntas dos sócios da Star Jeans:
+</p
+
+<ul>
+  <li> Qual o melhor preço de venda para as calças? </li>
+  <li> Quantos tipos de calças e suas cores para o produto inicial? </li>
+  <li> Quais as matérias-primas necessárias para confeccionar as calças? </li>
+</ul>
+
+<p align='justify'>Além da resposta para esses questionamentos, qual seria o investimento inicial no negócio?
+  Para entender melhor qual o investimento que será feito, a matéria-prima e os custos que há na confecção das roupas,
+  é preciso analisar os processos de fabricação. Na confecção de roupas, é possível observar que há os seguintes custos:
+</p>
+
+<ul>
+  <li> Custos com matéria-prima: </li>
+    <ul>
+      <li> Tecido; </li>
+      <li> Entretela; </li>
+      <li> Botão; </li>
+      <li> Zíper; </li>
+      <li> Linha; </li>
+      <li> Etiqueta; </li>
+      <li> Tag; </li>
+      <li> Embalagem. </li>
+    </ul>
+
+  <li> Custos com mão de obra; </li>
+  <li> Custos com energia; e </li>
+  <li> Custos com impostos. </li>
+
+</ul>
+
+<p align='justify'>Em cada um dos items acima, há uma forma de estimar os custos e serão descritos abaixo.
+</p>
