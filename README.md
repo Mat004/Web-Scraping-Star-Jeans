@@ -229,6 +229,8 @@ ficaram com valores próximos.</b></p>
 
 
 <h1> Problema de negócio </h1>
+<b>A solução completa do problema, com os detalhes, pode ser encontrado no tópico 7 do projeto: </b>
+
 <p align='justify'>O grande objetivo do projeto é responder as perguntas dos sócios da Star Jeans:
 </p
 
@@ -264,3 +266,149 @@ ficaram com valores próximos.</b></p>
 
 <p align='justify'>Em cada um dos items acima, há uma forma de estimar os custos e serão descritos abaixo.
 </p>
+
+<h2>1 - Custos com matéria-prima </h2>
+<p align='justify'>Todos os preços que serão mencionados aqui, foram retirados de lojas online especializadas
+  em vendas de produtos para confecção. O que isso significa? Que o valor final será uma estimativa, na realidade
+  as matérias-primas são compradas em atacado, com preços bem menores, fazendo assim com que haja um custo inferior nessa etapa.
+</p>
+
+<p align='justify'>Considerando todos os itens citados acima, que compoẽm a matéria-prima, o custo final estimado para a calça
+  ficou aproximadamente <b>R$20,89</b>.
+</p>
+
+<p align='justify'>O objetivo aqui é mostrar o resumo de todo o processo que foi feito durante o projeto. Dessa forma caso haja
+  o interesse em compreender melhor o racional, basta acessar o resumo da solução:
+</p>
+
+</br>
+
+<h2>2 - Custos da mão-de-obra </h2>
+<p align='justify'>Os custos com mão-de-obra, começa no mapeamento da peça até a embalagem. Os processos e o tempo estimado são:
+</p>
+
+<ul>
+  <li> Mapear e cortar: 5min; </li>
+  <li> Costurar: 30min; </li>
+  <li> Passar e embalar: 5min. </li>
+</ul>
+
+<p align='justify'>Dessa forma temos que o tempo estimado para a confeção de uma calça e o tempo de embalo, é de aproximadamente
+  40 minutos. Considerando o salário mínimo atual (ano de 2022), um colaborador recebe <b>R$ 1.212,00</b>. A partir desse valor teremos a
+  estimativa de quanto será aplicado na mão-de-obra de uma calça.
+</p>
+
+<p align='justify'>Como o nosso objetivo é estimar o valor gasto para confecção de uma calça, transformaremos os 21 dias em minutos.
+  Considerando uma jornada de trabalho de 8h por dia, temos que ao final de 21 dias a pessoa trabalhou <b>168h</b>.
+</p>
+
+<p align='justify'>Como há aproximadamente 40min para fazer uma peça e embalar, o valor final com mão-de-obra fica <b>R$ 4,80</b>.
+</p>
+
+</br>
+
+
+<h2>3 - Custo com energia </h2>
+<p align='justify'>No custo com energia elétrica, temos que ter os valores para 1 kwh (kilo-watt hora). O valor utilizado,
+  será baseado nos valores aplicados na cidade de Fortaleza/CE. A última atualização mostra que são <b>R$ 73,00</b> para cada 100kwh,
+  o que nos leva a <b>R$ 0,73 / kwh</b>.
+</p>
+
+<p align='justify'>Alguns equipamentos são necessários para a confecção das roupas, como lâmpadas, máquinas de costura e ferros
+  de passar. Cada um possui uma determinada potência. Abaixo há uma breve descrição de cada um:
+</p>
+
+<ul>
+  <li> Lâmpada LED: 8W; </li>
+  <li> Máquina de costura industrial: 550W; </li>
+  <li> Ferro de passar: 1200W. </li>
+</ul>
+
+<p align='justify'>Com o somatório dos 3 principais custos com energia, temos o valor total de 958,4 kwh.
+  Aplicando o valor de 1 kwh adotado para esse problema, tem-se o custo de energia aproximadamente de <b>R$ 699</b>.
+</p>
+
+</br>
+
+
+<h2>4 - Total do investimento inicial</h2>
+<p align='justify'>Nessa última etapa faremos a estimativa de investimento inicial para a entrada no mercado de
+  calças jeans masculinas e o preço que deverá ser praticado.
+</p>
+
+</br>
+
+<h3>4.1 - Investimento</h3>
+<p align='justify'>Será considerado uma situação em que há somente um turno de trabalho, ou seja, há somente
+  <b>8h</b> sendo trabalhadas por dia. A quantidade de <b>funcionários</b> é de 10 e os dias úteis serão 21.
+</p>
+
+<p align='justify'>Primeiro faremos o cálculo do salário do colaborador. O salário mínimo em 2022 é de
+  R$ 1.212,00 para os 10 colaboradores, há um investimento mensal de <b>R$ 12.120,00</b>.
+</p>
+
+<p align='justify'>Segundo, os custo com energia elétrica ficou aproximadamente <b>R$ 699,63</b>.
+</p>
+
+<p align='justify'>Terceiro, considerando que em um dia haja a confecção de 120 calças, no final de 21 dias serão
+  2520 calças no total. Como o custo com matéria-prima para uma calça é de R$ 20,89, o investimento final
+  será de <b>R$ 52.642,80</b>.
+</p>
+
+<p align='justify'>Dessa forma temos que em um mês, o valor mínimo a ser investido é de <b>R$ 65.642,43</b> para que
+  haja o pagamento dos custos básicos com matéria-prime, colaboradores e energia elétrica.
+</p>
+
+</br>
+
+
+<h3>4.2 - Preço praticado</h3>
+<p align='justify'>Considerando o valor acima, para o pagamentos dos custos básicos, qual seria o preço de uma calça
+  capaz de suprir ao menos esses custos?
+</p>
+
+<p align='justify'>Para isso faremos o valor total inicial, dividido pela estimativa de calças no mês que é de 2520.
+  O valor de uma calça ficaria de R$ 26,04. Esse é o valor que deve ser vendido uma calça caso haja apenas a pretensão
+  de pagar os custos básicos.
+</p>
+
+<p align='justify'>Pegando como referência os dados coletados da H&M, temos que para uma calça 100% de algodão, o preço
+  praticado é de US$ 39,99, convertendo para reais usando a cotação de R$ 5,15, o preço final é de R$ <b>205,94</b>.
+</p>
+
+<p align='justify'>Com o objetivo de seguir o mercado americano, com os preços dos players, o valor inicial será
+  de <b>R$ 189,99</b>, o que em dólar seria de <b>US$ 36,89</b>.
+</p>
+
+
+</br>
+
+
+<h3>4.3 - Faturamento bruto</h3>
+<p align='justify'>Considerando a situação de produção mensal de <b>2520</b> calças, sendo vendidas cada uma por R$ 189,99, o
+  faturamento da empresa será de R$ 478.774,80 no mês, considerando o ano o valor acumulado seria de <b>R$ 5.745.297,60</b>.
+  A quantidade de impostos que iria incidir seria de <b>19%</b>.
+</p>
+
+
+</br>
+
+
+<h1>Conclusão e próximos passos</h1>
+<p align='justify'>Dessa forma o preço praticado será de <b>US$ 36,89</b>. Com um investimento inicial de <b>US$ 12.746,10</b>.
+</p>
+
+<p align='justify'><b>OBS.:</b> É válido ressaltar que todos os valores aqui abordados, além de terem sido considerados como preços de
+  varejo, os valores analisados refletem a realidade do mercado brasileiro, enquanto toda a extração de dados foi realizada com
+  um player americano. Tendo em vista isso, é proposto alguns passos para que haja uma melhor acurácia nas estimativas de preços:
+</p>
+
+<ul>
+  <li> Analisar períodos maiores para identificar sazonalidades e comportamentos do mercado de calças; </li>
+  <li> Buscas outros players para extração de dados; </li>
+  <li> Construção de um mapa com a localização dos players; </li>
+  <li> Extrair dados de composição das roupas para avaliar a venda de produtos mais variados; </li>
+  <li> A partir dos dados "históricos", criar um algoritmo de previsão de preços; </li>
+  <li> Analisar os preços praticados no mercado americano para energia, mão-de-obra e matéria-prima,
+    para que haja uma estimativa de preço mais condizente com a realidade. </li>
+</ul>
