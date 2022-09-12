@@ -229,7 +229,9 @@ ficaram com valores próximos.</b></p>
 
 
 <h1> Problema de negócio </h1>
-<b>A solução completa do problema, com os detalhes, pode ser encontrado no tópico 7 do projeto: </b>
+
+**A solução completa do problema, com os detalhes, pode ser encontrado no tópico 7 do projeto**: [Star Jeans - Web Scraping](https://github.com/Mat004/Web-Scraping-Star-Jeans/blob/main/p02_webscraping.ipynb)
+</br>
 
 <p align='justify'>O grande objetivo do projeto é responder as perguntas dos sócios da Star Jeans:
 </p
@@ -277,11 +279,9 @@ ficaram com valores próximos.</b></p>
   ficou aproximadamente <b>R$20,89</b>.
 </p>
 
-<p align='justify'>O objetivo aqui é mostrar o resumo de todo o processo que foi feito durante o projeto. Dessa forma caso haja
-  o interesse em compreender melhor o racional, basta acessar o resumo da solução:
-</p>
-
+**O objetivo aqui é mostrar o resumo de todo o processo que foi feito durante o projeto. Dessa forma caso haja o interesse em compreender melhor o racional, basta acessar o resumo da solução**: [Resumo - Business case](https://github.com/Mat004/Web-Scraping-Star-Jeans/blob/main/resumo%20business%20case.ipynb)
 </br>
+
 
 <h2>2 - Custos da mão-de-obra </h2>
 <p align='justify'>Os custos com mão-de-obra, começa no mapeamento da peça até a embalagem. Os processos e o tempo estimado são:
